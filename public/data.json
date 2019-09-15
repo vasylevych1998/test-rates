@@ -1,0 +1,58 @@
+{
+  "rates": [
+    {
+      "id": 1,
+      "percentRate": 2.5,
+      "minAmount": 10000,
+      "maxAmount": 20000,
+      "minDurationInMonths": 6,
+      "maxDurationInMonths": 24,
+      "currency": "USD"
+    },
+    {
+      "id": 2,
+      "percentRate": 16.5,
+      "minAmount": 250000,
+      "maxAmount": 1000000,
+      "minDurationInMonths": 9,
+      "maxDurationInMonths": 36,
+      "currency": "UAH"
+    },
+    {
+      "id": 3,
+      "percentRate": 4,
+      "minAmount": 5000,
+      "maxAmount": 50000,
+      "minDurationInMonths": 3,
+      "maxDurationInMonths": 18,
+      "currency": "USD"
+    },
+    {
+      "id": 4,
+      "percentRate": 18,
+      "minAmount": 100000,
+      "maxAmount": 350000,
+      "minDurationInMonths": 3,
+      "maxDurationInMonths": 30,
+      "currency": "UAH"
+    },
+    {
+      "id": 5,
+      "percentRate": 18.5,
+      "minAmount": 150000,
+      "maxAmount": 800000,
+      "minDurationInMonths": 6,
+      "maxDurationInMonths": 12,
+      "currency": "UAH"
+    },
+    {
+      "id": 6,
+      "percentRate": 3.5,
+      "minAmount": 8000,
+      "maxAmount": 45000,
+      "minDurationInMonths": 12,
+      "maxDurationInMonths": 36,
+      "currency": "USD"
+    }
+  ]
+}

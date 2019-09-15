@@ -1,0 +1,16 @@
+.home {
+  .spinner {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .table-item {
+    &:hover {
+      cursor: pointer;
+    }
+    &.selected {
+      background: rgba(0, 0, 0, 0.5);
+    }
+  }
+}
